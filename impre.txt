@@ -1,0 +1,15 @@
+
+
+
+  LISTADO DE ARTICULOS DE LAS FACTURAS EMITIDAS EN VENTAS     NRO. DE PAG. 01
+
+--------------------------------------------------------------------------------
+
+                  CODIGO            NOMBRE            CANTIDAD
+                  ------            ------            --------
+                    01       Camperas                    13
+                    23       Blusas Estampadas            7
+                    26       Polleras                    14
+                    38       Botas                        6
+                    45       Carteras                     5
+                    72       Buzos                       11
